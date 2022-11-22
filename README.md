@@ -21,5 +21,5 @@ code: [Javascript, Typescript, HTML, CSS, Angular, Python, Django, Flask],
                         Building stuff: "Writting product code.",
                         mentor: "Moringaschool" 
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on python" 
+ 
 }
