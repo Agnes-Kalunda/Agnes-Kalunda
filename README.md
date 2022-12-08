@@ -14,12 +14,12 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 
-code: [Javascript, Typescript, HTML, CSS, Angular, Python, Django, Flask], 
+code: [Javascript, Reactjs, Typescript, HTML, CSS, Angular, Python, Django, Flask, FASTAPI], 
   tools: [stack overflow, Node, Styled-Components, Github, Music],
   techCommunities: {
                         Manager: "my own managment", 
                         Building stuff: "Writting product code.",
-                        mentor: "Moringaschool" 
+                        
                       },
  
 }
