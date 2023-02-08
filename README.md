@@ -14,7 +14,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 
-code: [Javascript, Reactjs, Typescript, HTML, CSS, Angular, Python, Django, Flask, FASTAPI], 
+code: [Javascript, Reactjs, Typescript, HTML, CSS, Python, Django, Flask, FASTAPI, Postgres], 
   tools: [stack overflow, Node, Styled-Components, Github, Music],
   techCommunities: {
                         Manager: "my own managment", 
