@@ -10,9 +10,10 @@ class SoftwareEngineer:
     def say_hi(self):
         print("Thanks for dropping by; hope you find some of my work interesting.")
 
-# Dict for additional information
+
 additional_info = {
-    "code": ["Javascript", "Reactjs", "Typescript", "HTML", "CSS" "Python", "Django", "Flask", "FASTAPI", "Postgres"],
+    "code": ["Javascript", "Reactjs", "Typescript", "HTML", "CSS", "Python", "Django", 
+             "Flask", "FASTAPI", "Postgres", "PHP", "Laravel", "Vue.js"],
     "tools": ["stack overflow", "Node", "Styled-Components", "Github", "Music"],
     "techCommunities": {
         "Manager": "my own management",
