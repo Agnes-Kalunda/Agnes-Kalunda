@@ -17,7 +17,7 @@ additional_info = {
     "tools": ["stack overflow", "Node", "Styled-Components", "Github", "Music"],
     "techCommunities": {
         "Manager": "my own management",
-        "Building stuff": "Writing product code.",
+        "Building stuff": "Writing production code.",
     },
 }
 
