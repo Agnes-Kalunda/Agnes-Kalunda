@@ -11,9 +11,8 @@ class SoftwareEngineer:
 
     def say_hi(self):
         print("Hi! Thanks for dropping by.")
-        print("Hope you find some of my work interesting!")
 
-    def get_tech_stack(self):
+     def get_tech_stack(self):
         return {
             "frontend": ["JavaScript", "TypeScript", "React.js", "Vue.js", "HTML5", "CSS3"],
             "backend": ["Python", "Django", "FastAPI", "PHP", "Laravel", "Node.js"],
@@ -47,14 +46,7 @@ class SoftwareEngineer:
             else:
                 print(f"  {key}: {value}")
         
-        print("Let's Connect:")
-        print("  • Email: agypeter97@gmail.com")
-        
-        
-        print("Fun Fact: Debugging with ☕ and 🎵, always curious about the next tech trend!")
-        print(" Open to collaborations and learning opportunities!")
-
-
+    
 # Initialize and run
 if __name__ == "__main__":
     agnes = SoftwareEngineer()
